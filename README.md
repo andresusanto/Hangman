@@ -9,6 +9,12 @@ Game HANGMAN memiliki cara kerja yang sederhana. Pertama pemain akan disuguhkan 
 
 Program yang kami buat memiliki prinsip kerja yang sama dengan kasus diatas, namun kami mengemasnya dalam bentuk program sehingga dapat dimainkan di komputer.
 
+## Kompilasi
+Program dikompilasi menggunakan GNU GCC untuk windows dengan menggunakan MinGW.
+
+## Hasil Kompilasi dan Sampel File Input
+Program menggunakan beberapa file input (seperti database pengguna, high score, dll). Sampel file input dan program yang sudah terkompilasi dapat ditemui pada folder `BIN`.
+
 ## Fitur-fitur
 Pendaftaran/registrasi user:
 
