@@ -1,4 +1,6 @@
 # Hangman
+![Hangman](http://c11.incisozluk.com.tr/res/incisozluk/11000/1/72091_oba40.jpg)
+
 Permainan Klasik "Hangman" yang dikemas ulang kedalam game windows. Dikembangkan dengan bahasa C.
 
 ## Intro
