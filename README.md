@@ -10,7 +10,11 @@ Game HANGMAN memiliki cara kerja yang sederhana. Pertama pemain akan disuguhkan 
 Program yang kami buat memiliki prinsip kerja yang sama dengan kasus diatas, namun kami mengemasnya dalam bentuk program sehingga dapat dimainkan di komputer.
 
 ## Kompilasi
-Program dikompilasi menggunakan GNU GCC untuk windows dengan menggunakan MinGW.
+Program dikompilasi menggunakan GNU GCC untuk windows dengan menggunakan MinGW. Untuk melakukan kompilasi, silahkan install **MinGW/Cygwin**. Setelah itu, buka terminal MinGW/Cygwin lalu gunakan perintah berikut ini:
+```
+gcc -o hangman TB_06_10.c
+```
+Setelah itu anda dapat menjalankan game dengan perintah `./hangman`.
 
 ## Hasil Kompilasi dan Sampel File Input
 Program menggunakan beberapa file input (seperti database pengguna, high score, dll). Sampel file input dan program yang sudah terkompilasi dapat ditemui pada folder `BIN`.
